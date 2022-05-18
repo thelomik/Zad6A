@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">cw6</string>
+    <string name="rb1tekst" />
+    <string name="rb2tekst" />
+    <string name="tv1tekst" />
+    <string name="tv2tekst" />
+    <string name="tv3tekst" />
+    <string name="tv4tekst" />
+    <string name="chk1tekst" />
+    <string name="chk2tekst" />
+    <string name="chk3tekst" />
+    <string name="chk4tekst" />
+    <string name="btn1tekst" />
+    <string name="btn2tekst" />
+</resources>
